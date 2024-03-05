@@ -1,6 +1,6 @@
 # react-vite-eslint-prettier-husky-template
 
-![React-template screenshot](screenshot.png)
+![React-template screenshot](screencapture.png)
 > Template for React JS projects + Vite
 
 ## Try it
