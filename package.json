@@ -2,7 +2,7 @@
   "name": "kevin",
   "version": "0.0.1",
   "description": "Admin Panel Pro",
-  "author": "Kevin Scott",
+  "author": "Oleh Bazhan",
   "license": "MIT",
   "engines": {
     "node": ">=16.0.0",
