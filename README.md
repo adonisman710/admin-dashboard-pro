@@ -8,7 +8,7 @@
 ### Clone to local
 
 ```bash
-git clone https://github.com/AnwarHossainSR/admin-dashboard-pro.git
+git clone https://github.com/adonisman710/admin-dashboard-pro.git
 cd my-app
 yarn install # If you don't have yarn installed, run: npm install -g yarn
 ```
