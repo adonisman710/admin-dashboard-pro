@@ -5,10 +5,6 @@
 
 ## Try it
 
-### Github template
-
-[Create a repo from this template on GitHub.](https://github.com/AnwarHossainSR/react-vite-eslint-prettier-husky-template.git/generate)
-
 ### Clone to local
 
 ```bash
